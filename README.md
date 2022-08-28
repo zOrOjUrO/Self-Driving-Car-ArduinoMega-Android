@@ -26,9 +26,9 @@ The car runs on an Arduino Mega, commands for navigation are sent by an android 
 > - ***Note: *** we are using mapbox sdk to acheieve the navigation as well as map visualization. [Reference](https://docs.mapbox.com/android/maps/guides/install/)
 
 * Team incudes : 
-  - Harikiran G (harikiran.2136@gmail.com)
-  - Gokul Raj S (gokulash99@gmail.com)
-  - Darshan J   (darshan010gowda@gmail.com)
+  - [Harikiran G](https://github.com/harikiran27)
+  - [Gokul Raj S](https://github.com/zOrOjUrO)
+  - [Darshan J](https://github.com/Darshan-j-24)
 
 
 **Android Clients**
