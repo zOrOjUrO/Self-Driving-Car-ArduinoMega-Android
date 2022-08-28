@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorIBackground"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/vnkm_img"
+        android:layout_width="134dp"
+        android:layout_height="129dp"
+        android:background="#A99CA3"
+        android:contentDescription="@string/vanakkam"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.45"
+        app:srcCompat="@drawable/v"
+        tools:srcCompat="@drawable/v" />
+
+    <TextView
+        android:id="@+id/textveiw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="#a99ca3"
+        android:text="@string/vanakkam"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#4b325c"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/vnkm_img"
+        tools:text="Vanakkam!" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@android:style/Widget.DeviceDefault.Light.ProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:animationResolution="@android:integer/config_mediumAnimTime"
+        android:background="@color/colorIBackground"
+        android:foregroundTint="@color/colorText"
+        android:max="@android:integer/status_bar_notification_info_maxnum"
+        android:progressBackgroundTint="@color/colorText"
+        android:progressTint="@color/colorText"
+        android:scrollbarStyle="outsideOverlay"
+        android:secondaryProgressTint="@color/colorText"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textveiw"
+        app:layout_constraintVertical_bias="0.388" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
