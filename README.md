@@ -37,4 +37,4 @@ The car runs on an Arduino Mega, commands for navigation are sent by an android 
 ![LocationClient](https://user-images.githubusercontent.com/68921071/187082395-9a562c52-5a72-4be8-8ddd-b8bffeb8b1ad.png) | ![RCNavigator](https://user-images.githubusercontent.com/68921071/187082426-491e4492-5a41-4eec-b2b9-29e9c839a570.png)
 
 
-*Note: The Android Codes maynot fully correspond to the complete app as we are uploading an old project and few files might be missing. 
+*Note: The Android Codes maynot fully correspond to the complete app as we are uploading an old project and few files might be missing.*
