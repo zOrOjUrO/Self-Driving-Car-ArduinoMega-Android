@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocClient</string>
+    <string name="title_activity_maps">Location Client</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="o_o">!O.O!</string>
+    <string name="y_coordinates">Y coordinates</string>
+    <string name="x_coordinates">X coordinates</string>
+    <string name="initializing">initializing . . .</string>
+    <string name="share_location">SHARE LOCATION</string>
+    <string name="turn_off_share">TURN OFF SHARE</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="call">Call !</string>
+</resources>
