@@ -38,12 +38,3 @@ The car runs on an Arduino Mega, commands for navigation are sent by an android 
 
 
 *Note: The Android Codes maynot fully correspond to the complete app as we are uploading an old project and few files might be missing.*
-
-
-
-  
-  <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-    <img src = "https://contrib.rocks/image?repo = zOrOjUrO/Self-Driving-Car-ArduinoMega-Android"/>
-  </a>
-
-Made with [contributors-img](https://contrib.rocks).
